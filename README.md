@@ -1,4 +1,4 @@
-
+<img height="200px" align="center" src="https://github.com/tarun-titikshu/img/blob/main/git_banner.jpg" >
 <!---
 - 👋 Hi, I’m @tarun-titikshu
 - 👀 I’m interested in contribute in any project
