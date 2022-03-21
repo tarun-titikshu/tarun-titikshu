@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/tarun-titikshu/img/blob/main/git_banner.jpg" >
 
-<span><h1><span><img height="40px" width="40px" src="https://media4.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=6c09b952th10lccy4vdjte0l768y1pvts3ndqc8posvd4x9h&rid=giphy.gif&ct=s"></span> Hi, I'am titikshu-tarun</h1></span>
+<span><h1 align="center"><span><img height="40px" width="40px" src="https://media4.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=6c09b952th10lccy4vdjte0l768y1pvts3ndqc8posvd4x9h&rid=giphy.gif&ct=s"></span> Hi, I'am titikshu-tarun</h1></span>
 
 <span>
   <img height="400px" width="400px" align="right" src="https://github.com/tarun-titikshu/img/blob/main/side-git.png"> 
