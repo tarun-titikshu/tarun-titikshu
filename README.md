@@ -26,6 +26,9 @@ Other skills are like ; <br>
 - editing etc ... <br>
   
 </span>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-titikshu&show_icons=true&locale=en" alt="tarun-titikshu" /></p>
+
 <hr>
 <span><a href="https://www.linkedin.com/in/titikshu-tarun-behera-48555b213/"><img height="30px" width="30px"src="https://cdn-icons-png.flaticon.com/128/179/179330.png"></span>
 <span><a href="mailto:titikshutarun@gmail.com"><img height="30px" width="30px"src="https://cdn-icons.flaticon.com/png/128/720/premium/720277.png?token=exp=1647895983~hmac=35f0cefed5bc5a1535416e3b4473a8a4"></span>
