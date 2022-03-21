@@ -1,5 +1,5 @@
 
-<img height="400px" width="100%" src="https://github.com/tarun-titikshu/images/blob/main/Blue%20and%20Red%20Games%20Store%20Landscape%20Banner.png">
+<img height="400px" src="https://github.com/tarun-titikshu/images/blob/main/Blue%20and%20Red%20Games%20Store%20Landscape%20Banner.png">
 <!---
 - 👋 Hi, I’m @tarun-titikshu
 - 👀 I’m interested in contribute in any project
