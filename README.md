@@ -4,7 +4,10 @@
 
 <span>
   <img height="400px" width="400px" align="right" src="https://github.com/tarun-titikshu/img/blob/main/side-git.png"> 
-  
+- while(true){ <br>
+  . . . . code() <br>
+  . . . . sleep() <br>
+  . . . . code() }<br>
 - 👀 I’m interested in contribute in any project <br>
 - 🌱 I’m currently learning JS & data science <br>
 - 💞️ I’m looking to collaborate on open source projects <br>
