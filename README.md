@@ -27,6 +27,7 @@ Other skills are like ; <br>
 - communication <br>
 - graphic designing <br>
 - editing etc ... <br>
+- UI Designing <br>
   
 </span>
 
