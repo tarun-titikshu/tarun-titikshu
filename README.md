@@ -34,11 +34,11 @@ Other skills are like ; <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-titikshu&show_icons=true&locale=en" alt="tarun-titikshu" /></p>
 
 <hr>
-<span><a href="https://www.linkedin.com/in/titikshu-tarun-behera-48555b213/"><img height="30px" width="30px"src="https://cdn-icons-png.flaticon.com/128/179/179330.png"></span>
-<span><a href="mailto:titikshutarun@gmail.com"><img height="30px" width="30px"src="https://cdn-icons.flaticon.com/png/128/720/premium/720277.png?token=exp=1647895983~hmac=35f0cefed5bc5a1535416e3b4473a8a4"></span>
-<span><a href="https://www.instagram.com/tarun_titikshu/"><img height="30px" width="30px"src="https://cdn-icons.flaticon.com/png/128/4138/premium/4138124.png?token=exp=1647895394~hmac=1967c8cd762304cb36583f0386a66573"></span>
-<span><a href="https://www.facebook.com/tarunsincostan.ssd/"><img height="30px" width="30px"src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494475.png?token=exp=1647895394~hmac=486d120b899c7e519708ef2b622d89ba"></span>
-  <span><a href="https://twitter.com/Tarun_titikshu"><img height="30px" width="30px"src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670151.png?token=exp=1647895790~hmac=bbcbfb3cbb348c694a3b52de2d6ed5fd"></span>
+<span><a href="https://www.linkedin.com/in/titikshu-tarun-behera-48555b213/"><img height="30px" width="30px"src="https://github.com/tarun-titikshu/img/blob/main/179330.png"></span>
+<span><a href="mailto:titikshutarun@gmail.com"><img height="30px" width="30px"src="https://github.com/tarun-titikshu/img/blob/main/icons8-gmail-logo-500.png"></span>
+<span><a href="https://www.instagram.com/tarun_titikshu/"><img height="30px" width="30px"src="https://github.com/tarun-titikshu/img/blob/main/icons8-instagram-240.png"></span>
+<span><a href="https://www.facebook.com/tarunsincostan.ssd/"><img height="30px" width="30px"src="https://github.com/tarun-titikshu/img/blob/main/icons8-facebook-240.png"></span>
+  <span><a href="https://twitter.com/Tarun_titikshu"><img height="30px" width="30px"src="https://github.com/tarun-titikshu/img/blob/main/icons8-twitter-480.png"></span>
 
 <!---
 - 👋 Hi, I’m @tarun-titikshu
