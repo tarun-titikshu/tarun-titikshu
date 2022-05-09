@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/tarun-titikshu/img/blob/main/git_banner.jpg" >
+<img align="center" src="https://github.com/tarun-titikshu/img/blob/main/git-banner.png" >
 
 <span><h1 align="center"><span><img height="40px" width="40px" src="https://media4.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=6c09b952th10lccy4vdjte0l768y1pvts3ndqc8posvd4x9h&rid=giphy.gif&ct=s"></span> Hi, I'am titikshu-tarun</h1></span>
 
